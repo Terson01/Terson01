@@ -55,7 +55,7 @@ GPA: Second Class Upper Division (4.0 / 5.0)
 
 ## 📄 Resume
 
-📥 [Download My Resume](./Peterson_Anikwe_Improved_CV.docx)
+📄 [Download My Resume (PDF)](./Peterson_Anikwe_CV_pdf.pdf)
 
 ---
 
